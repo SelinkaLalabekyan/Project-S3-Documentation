@@ -32,10 +32,3 @@ ADA Compliance Checklist and Evidence of Adherence
 
 The Clarity Map platform adhered to core principles of the Web Content Accessibility Guidelines (WCAG 2.1) to ensure usability for individuals with disabilities.
 
-WCAG 2.1 Principle,Checklist Item,Evidence/Implementation
-Perceivable,Color Contrast (1.4.3),"Implementation of a high-contrast color palette, particularly for text on buttons and the severity levels on the Pollution Heatmap (Red/Yellow/Green), ensuring readability."
-,Text Alternatives (1.1.1),"Use of descriptive alt text for all non-text content, especially on uploaded images (the ""Before"" and ""After"" photos) to ensure screen reader compatibility."
-Operable,Keyboard Accessibility (2.1.1),"Confirmation that all interactive elements (Sign-in form, Mission buttons, Admin Approve/Reject buttons) are fully operable using only the keyboard."
-,Focus Indicator (2.4.7),Implementation of clear visual focus indicators (high-contrast outlines) to show the user which element is currently selected during keyboard navigation.
-Understandable,Predictable Navigation (3.2.3),"Consistent placement of navigation components (Dashboard, Missions, Logout) and uniform application of the main green-theme buttons across all pages."
-,Input Assistance (3.3),"Clear, simple labeling and error messages for the Sign-in and Mission Submission forms, guiding the user without ambiguity."
