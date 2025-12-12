@@ -27,8 +27,3 @@ Code Snippets: Python code snippets demonstrating the core backend logic for Geo
 
 ML Model Summary: A summary table showing the Convolutional Neural Network (CNN) model architecture (layers, parameters) and initial training accuracy, verifying the technical feasibility of the ML component.
 
-
-ADA Compliance Checklist and Evidence of Adherence
-
-The Clarity Map platform adhered to core principles of the Web Content Accessibility Guidelines (WCAG 2.1) to ensure usability for individuals with disabilities.
-
